@@ -20,6 +20,7 @@ Kali Linux  
 MailHog Email Testing Server  
 Virtual Machines  
 SMTP Protocol
+Swaks SMTP testing tool
 
 ## Phishing Attack Simulation
 In this lab a phishing email was created and sent from the Kali Linux attacker virtual machine to the Windows victim virtual machine.
