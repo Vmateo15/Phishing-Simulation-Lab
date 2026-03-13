@@ -60,22 +60,20 @@ The MailHog web interface displays the captured message which allows analysis of
 
 ## Screenshots
 ### 1. Sending the Phishing Email from Kali
-
 This screenshot shows the attacker machine sending a phishing email using SMTP commands from the Kali Linux terminal.
 
-![Kali SMTP Command](kali-command.png)
+![Kali SMTP Command](./kali-command.png)
 
 ### 2. MailHog Capturing the Email
-
 MailHog captures the phishing email inside the lab environment before it reaches a real mail system.
 
-![MailHog Inbox](mh-inbox.png)
+![MailHog Inbox](./mh-inbox.png)
 
 ### 3. Viewing the Phishing Email
-
 The captured phishing email can be opened inside MailHog to inspect the message body and headers.
 
-![Phishing Email](mh-email.png)## Skills Demonstrated
+![Phishing Email](./mh-email.png)
+## Skills Demonstrated
 Email security analysis  
 Phishing attack simulation  
 SMTP protocol understanding  
