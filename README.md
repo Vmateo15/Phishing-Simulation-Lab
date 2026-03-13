@@ -59,11 +59,16 @@ MailHog allows emails to be safely captured and inspected without sending real p
 The MailHog web interface displays the captured message which allows analysis of the sender address message headers and email content.
 
 ## Screenshots
-MailHog receiving the phishing email sent from the Kali Linux attacker virtual machine.
-Phishing email opened inside MailHog showing the sender address and message content.
-These screenshots demonstrate how phishing emails can be delivered and analyzed in a controlled lab environment.
+1. Sending the Phishing Email from Kali
+This screenshot shows the attacker machine sending a phishing email using SMTP commands from the Kali Linux terminal.
+![Kali SMTP Command](kali-command.png)
+ 2. MailHog Capturing the Email
+MailHog captures the phishing email inside the lab environment before it reaches a real mail system.
+![MailHog Inbox](mh-inbox.png)
+ 3. Viewing the Phishing Email
+The captured phishing email can be opened inside MailHog to inspect the message body and headers.
+![Phishing Email](mh-email.png)## Skills Demonstrated
 
-## Skills Demonstrated
 Email security analysis  
 Phishing attack simulation  
 SMTP protocol understanding  
