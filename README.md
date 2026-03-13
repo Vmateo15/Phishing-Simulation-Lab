@@ -73,6 +73,7 @@ MailHog captures the phishing email inside the lab environment before it reaches
 The captured phishing email can be opened inside MailHog to inspect the message body and headers.
 
 ![Phishing Email](./mh-email.png)
+This lab demonstrates how attackers can exploit the SMTP protocol to spoof sender identities and deliver phishing emails. It also shows how security technologies such as SPF, DKIM, and DMARC help organizations detect and prevent email spoofing attacks. By capturing the message in MailHog, the phishing attempt can be analyzed safely without interacting with real email systems.
 
 ## Skills Demonstrated
 Email security analysis  
