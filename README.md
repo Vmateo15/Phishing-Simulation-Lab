@@ -65,11 +65,11 @@ This screenshot shows the attacker machine sending a phishing email using SMTP c
 
 ### 2. MailHog Capturing the Email
 MailHog captures the phishing email inside the lab environment before it reaches a real mail system.
-![img mh inbox](mh-inbox.png)
+![img inbox](mh-inbox.png)
 
 ### 3. Viewing the Phishing Email
 The captured phishing email can be opened inside MailHog to inspect the message body and headers.
-![img mh email](mh-email.png)
+![img email](mh-email.png)
 
 ## Skills Demonstrated
 Email security analysis  
