@@ -67,5 +67,6 @@ These screenshots demonstrate how phishing emails can be delivered and analyzed 
 Email security analysis  
 Phishing attack simulation  
 SMTP protocol understanding  
+Threat analysis
 Email authentication technologies SPF DKIM DMARC  
 Cybersecurity lab documentation
