@@ -69,8 +69,9 @@ MailHog captures the phishing email inside the lab environment before it reaches
 
 ### 3. Viewing the Phishing Email
 The captured phishing email can be opened inside MailHog to inspect the message body and headers.
-![Phishing Email](mh-email.png)## Skills Demonstrated
+![Phishing Email](mh-email.png)
 
+## Skills Demonstrated
 Email security analysis  
 Phishing attack simulation  
 SMTP protocol understanding  
