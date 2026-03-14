@@ -33,11 +33,11 @@ SMTP allows messages to be delivered but it does not verify the identity of the 
 This is why additional email authentication controls such as SPF DKIM and DMARC are used.
 
 ## How SMTP Works
-A user sends an email using an email client such as Gmail or Outlook  
-The email client connects to an SMTP server  
-The sending server looks up the recipient domain using DNS MX records  
-The sending server connects to the recipient mail server  
-The email is transmitted using SMTP commands
+A user sends an email using an email client such as Gmail or Outlook.
+The email client connects to an SMTP server.
+The sending server looks up the recipient domain using DNS MX records.
+The sending server connects to the recipient mail server.
+The email is transmitted using SMTP commands.
 
 ## Email Authentication Controls
 
