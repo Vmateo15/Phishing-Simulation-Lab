@@ -6,7 +6,7 @@ The goal of this project is to understand how phishing emails are sent, how atta
 
 ## Lab Environment
 The phishing simulation was performed in a controlled virtual lab environment using virtual machines.
-A Attacker system which was a Kali Linux Virtual Machine and a Victim system which was Windows Virtual Machine was used to show Email testing server with a MailHog email testing server.
+A Attacker system which was a Kali Linux Virtual Machine and a Victim system which was a Windows Virtual Machine was used to show Email testing server with a MailHog email testing server.
 The attacker system sends a phishing email using SMTP while MailHog captures the message so it can be analyzed safely.
 The sender address attacker@kali.local represents a simulated attacker domain used only for testing inside the lab environment.
 
